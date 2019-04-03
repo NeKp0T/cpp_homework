@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonebook>
+    <human name="Sharlotta Viktorovna Fanina">
+        <phone>1193974254</phone>
+    </human>
+    <human name="Aziza Ivanovna Grigoryeva">
+        <phone>1160381268</phone>
+        <phone>1776377774</phone>
+        <phone>901791304</phone>
+        <phone>1233469519</phone>
+    </human>
+    <human name="Mayya Lyvovna Savrasova">
+        <phone>2100977616</phone>
+        <phone>2023263949</phone>
+        <phone>1637554534</phone>
+        <phone>801548588</phone>
+        <phone>1436388961</phone>
+        <phone>295121650</phone>
+        <phone>1882229013</phone>
+    </human>
+    <human name="Feodora Nikolaevna Silivestrova">
+        <phone>668158962</phone>
+        <phone>1174796187</phone>
+        <phone>1725273991</phone>
+    </human>
+    <human name="Karmen Vasilyevna Skorobogatova">
+        <phone>421499878</phone>
+        <phone>1968233557</phone>
+        <phone>1868530593</phone>
+        <phone>1654969398</phone>
+        <phone>415462819</phone>
+        <phone>1502396254</phone>
+        <phone>1772180073</phone>
+        <phone>964635206</phone>
+    </human>
+    <human name="Ninely Georgievna Trifonova">
+        <phone>936865687</phone>
+        <phone>749827742</phone>
+        <phone>1992184176</phone>
+    </human>
+</phonebook>
